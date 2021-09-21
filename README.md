@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I have lived for 15 years.
 
-(https://github-readme-stats.vercel.app/api?username=Haldrup1&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Haldrup1&show_icons=true&theme=radical">
