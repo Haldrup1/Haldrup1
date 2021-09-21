@@ -7,3 +7,5 @@
 - 📫 How to reach me: [Youtube - Haldrup1](https://www.youtube.com/channel/UC40vTNLQ5dj43nWNz7mZAQA)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I have lived for 15 years.
+
+(https://github-readme-stats.vercel.app/api?username=Haldrup1&show_icons=true&theme=radical)
