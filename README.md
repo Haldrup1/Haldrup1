@@ -2,7 +2,7 @@
 #### FiveM content Developer
 ![FiveM content Developer](https://i.gyazo.com/c922bf8ebc6f87a3a212dadca8a1932b.png)
 
-I'm Haldrup from Denamrk and i do content within FiveM Development. I currently. I am aware that I have not learned very many programming languages, I plan to learn more in the future. 
+I'm Haldrup from Denmark and i do content within FiveM Development. I currently. I am aware that I have not learned very many programming languages, I plan to learn more in the future. 
 
 Skills: LUA
 
