@@ -4,7 +4,7 @@
 
 I'm Haldrup from Denamrk and i do content within FiveM Development. I currently. I am aware that I have not learned very many programming languages, I plan to learn more in the future. 
 
-Skills: C++ / LUA
+Skills: LUA
 
 - 🔭 I’m currently working on some minor projects.
 
