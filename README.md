@@ -2,8 +2,6 @@
 #### FiveM content Developer
 ![FiveM content Developer](https://i.gyazo.com/c922bf8ebc6f87a3a212dadca8a1932b.png)
 
-I'm Haldrup from Denmark and i do content within FiveM Development
-
 Skills: LUA, JS
 
 - 🔭 I’m currently working on some minor projects.
