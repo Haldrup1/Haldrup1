@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Haldrup
 #### FiveM content Developer
-![FiveM content Developer](https://i.gyazo.com/c922bf8ebc6f87a3a212dadca8a1932b.png)
+![FiveM Content Developer](https://i.gyazo.com/c922bf8ebc6f87a3a212dadca8a1932b.png)
 
 Skills: LUA, JS
 
